@@ -1,0 +1,6 @@
+C:\Users\vilma\source\repos\CASH Master\CASHMasterProject\bin\Debug\CASHMasterProject.exe.config
+C:\Users\vilma\source\repos\CASH Master\CASHMasterProject\bin\Debug\CASHMasterProject.exe
+C:\Users\vilma\source\repos\CASH Master\CASHMasterProject\bin\Debug\CASHMasterProject.pdb
+C:\Users\vilma\source\repos\CASH Master\CASHMasterProject\obj\Debug\CASHMasterProject.csproj.CoreCompileInputs.cache
+C:\Users\vilma\source\repos\CASH Master\CASHMasterProject\obj\Debug\CASHMasterProject.exe
+C:\Users\vilma\source\repos\CASH Master\CASHMasterProject\obj\Debug\CASHMasterProject.pdb
